@@ -17,12 +17,10 @@
 | 插件 | 仓库 |
 |------|------|
 | [包子漫画](https://github.com/deretame/Breeze-plugin-baozimh) | [deretame/Breeze-plugin-baozimh](https://github.com/deretame/Breeze-plugin-baozimh) |
-| [包子漫画 Plus](https://github.com/Enigma-Soul/Breeze-plugin-baozimh-plus) | [Enigma-Soul/Breeze-plugin-baozimh-plus](https://github.com/Enigma-Soul/Breeze-plugin-baozimh-plus) |
 | [哔咔漫画](https://github.com/deretame/Breeze-plugin-bikaComic) | [deretame/Breeze-plugin-bikaComic](https://github.com/deretame/Breeze-plugin-bikaComic) |
 | [禁漫天堂](https://github.com/deretame/Breeze-plugin-JmComic) | [deretame/Breeze-plugin-JmComic](https://github.com/deretame/Breeze-plugin-JmComic) |
 | [禁漫天堂(mumushu0501-boop)](https://github.com/Mumushu0501-boop/Breeze-plugin-JmComic-change) | [mumushu0501-boop/Breeze-plugin-JmComic-change](https://github.com/mumushu0501-boop/Breeze-plugin-JmComic-change) |
 | [拷贝漫画](https://github.com/deretame/Breeze-plugin-copyComic) | [deretame/Breeze-plugin-copyComic](https://github.com/deretame/Breeze-plugin-copyComic) |
-| [拷贝漫画 Copy4000](https://github.com/k623615746/Breeze-plugin-copy4000) | [k623615746/Breeze-plugin-copy4000](https://github.com/k623615746/Breeze-plugin-copy4000) |
 | [漫画柜](https://github.com/deretame/Breeze-plugin-ManHuaGui) | [deretame/Breeze-plugin-ManHuaGui](https://github.com/deretame/Breeze-plugin-ManHuaGui) |
 | [如漫画](https://github.com/deretame/Breeze-plugin-RuManHua) | [deretame/Breeze-plugin-RuManHua](https://github.com/deretame/Breeze-plugin-RuManHua) |
 | [绅士漫画](https://github.com/deretame/Breeze-plugin-shenShiManHua) | [deretame/Breeze-plugin-shenShiManHua](https://github.com/deretame/Breeze-plugin-shenShiManHua) |
@@ -37,7 +35,6 @@
 | [NoyAcg](https://github.com/deretame/Breeze-plugin-NoyAcg) | [deretame/Breeze-plugin-NoyAcg](https://github.com/deretame/Breeze-plugin-NoyAcg) |
 | [Toomics](https://github.com/wuuduf/Breeze-plugin-toomics) | [wuuduf/Breeze-plugin-toomics](https://github.com/wuuduf/Breeze-plugin-toomics) |
 | [WEBTOON](https://www.webtoons.com) | [deretame/Breeze-plugin-webtoon](https://github.com/deretame/Breeze-plugin-webtoon) |
-| [WeebCentral](https://github.com/k623615746/Breeze-plugin-weebcentral) | [k623615746/Breeze-plugin-weebcentral](https://github.com/k623615746/Breeze-plugin-weebcentral) |
 | [zero搬运网](https://github.com/k623615746/Breeze-plugin-zerobyw) | [k623615746/Breeze-plugin-zerobyw](https://github.com/k623615746/Breeze-plugin-zerobyw) |
 | [코사이트](https://github.com/k623615746/Breeze-plugin-korsite) | [k623615746/Breeze-plugin-korsite](https://github.com/k623615746/Breeze-plugin-korsite) |
 
