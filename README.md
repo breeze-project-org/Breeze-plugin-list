@@ -5,7 +5,7 @@
 ## 相关链接
 
 - **Breeze（插件运行时 / 主项目）**: [https://github.com/deretame/Breeze](https://github.com/deretame/Breeze)
-- **插件开发文档**: [https://deretame.github.io/plugin-dev-docs/](https://deretame.github.io/plugin-dev-docs/)
+- **插件开发文档**: [https://breeze-project-org.github.io/plugin-dev-docs/](https://breeze-project-org.github.io/plugin-dev-docs/)
 
 ## 插件列表
 
@@ -74,4 +74,4 @@ node get-list.js
 
 ## 贡献插件
 
-如果你想为 Breeze 开发插件，请参考上方的[插件开发文档](https://deretame.github.io/plugin-dev-docs/)。
+如果你想为 Breeze 开发插件，请参考上方的[插件开发文档](https://breeze-project-org.github.io/plugin-dev-docs/)。
