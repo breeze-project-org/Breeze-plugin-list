@@ -36,6 +36,7 @@
 | [nhentai](https://github.com/deretame/Breeze-plugin-nhentai) | [deretame/Breeze-plugin-nhentai](https://github.com/deretame/Breeze-plugin-nhentai) |
 | [NoyAcg](https://github.com/deretame/Breeze-plugin-NoyAcg) | [deretame/Breeze-plugin-NoyAcg](https://github.com/deretame/Breeze-plugin-NoyAcg) |
 | [Toomics](https://github.com/wuuduf/Breeze-plugin-toomics) | [wuuduf/Breeze-plugin-toomics](https://github.com/wuuduf/Breeze-plugin-toomics) |
+| [WebDAV 漫画](https://github.com/yayoinoyume/Breeze-plugin-webdav) | [yayoinoyume/Breeze-plugin-webdav](https://github.com/yayoinoyume/Breeze-plugin-webdav) |
 | [WEBTOON](https://www.webtoons.com) | [deretame/Breeze-plugin-webtoon](https://github.com/deretame/Breeze-plugin-webtoon) |
 | [WeebCentral](https://github.com/k623615746/Breeze-plugin-weebcentral) | [k623615746/Breeze-plugin-weebcentral](https://github.com/k623615746/Breeze-plugin-weebcentral) |
 | [zero搬运网](https://github.com/k623615746/Breeze-plugin-zerobyw) | [k623615746/Breeze-plugin-zerobyw](https://github.com/k623615746/Breeze-plugin-zerobyw) |
